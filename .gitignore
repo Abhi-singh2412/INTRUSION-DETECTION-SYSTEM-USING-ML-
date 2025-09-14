@@ -1,0 +1,14 @@
+Python
+pycache/
+*.pyc
+
+IDEs and Editors
+.vscode/
+.idea/
+
+Environment variables
+.env
+
+Models and data
+models/
+data/
